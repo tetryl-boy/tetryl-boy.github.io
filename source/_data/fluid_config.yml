@@ -1,0 +1,22 @@
+index:
+  banner_img: /images/uploads/c7336400-015b-4885-9b1d-8da923bd307d.jpeg
+  banner_img_height: 70
+post:
+  banner_img: /images/uploads/c7336400-015b-4885-9b1d-8da923bd307d.jpeg
+  banner_img_height: 70
+  default_index_img: /images/uploads/image.jpg
+archive:
+  banner_img: /images/uploads/image.jpg
+  banner_img_height: 70
+category:
+  banner_img: /images/uploads/image.jpg
+  banner_img_height: 70
+tag:
+  banner_img: /images/uploads/image.jpg
+  banner_img_height: 70
+about:
+  banner_img: /images/uploads/image.jpg
+  banner_img_height: 70
+links:
+  banner_img: /images/uploads/image.jpg
+  banner_img_height: 70
